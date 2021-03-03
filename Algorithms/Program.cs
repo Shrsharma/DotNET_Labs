@@ -9,7 +9,8 @@ namespace Algorithms
             Console.WriteLine("Hello World!");
             //Searching.LinearSearch.Do();
             //Searching.BinarySearch.Do();
-            Sorting.BubbleSort.Do();
+            //Sorting.BubbleSort.Do();
+            Sorting.SelectionSort.Do();
         }
     }
 }
