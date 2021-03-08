@@ -6,12 +6,13 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
             //Searching.LinearSearch.Do();
             //Searching.BinarySearch.Do();
             //Sorting.BubbleSort.Do();
             //Sorting.SelectionSort.Do();
-            Sorting.InsertionSort.Do();
+            //Sorting.InsertionSort.Do();
+            RecursionProgram.Do();
         }
     }
 }
